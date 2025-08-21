@@ -11,7 +11,7 @@
   </span>
   <br>
   <span>
-	  Projects I've contributed to: <br>
+	  Some projects I've contributed to: <br>
 <!--START_SECTION:prlist-->
 <a href="https://github.com/rpgp/rpgp/pulls?q=is%3Apr&#43;author%3Aasciimoth">rpgp/rpgp</a> <br>
 <a href="https://github.com/PurpleI2P/i2pd/pulls?q=is%3Apr&#43;author%3Aasciimoth">PurpleI2P/i2pd</a> <br>
