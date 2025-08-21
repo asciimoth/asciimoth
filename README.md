@@ -13,20 +13,12 @@
   <span>
 	  Projects I've contributed to: <br>
 <!--START_SECTION:prlist-->
-
-
-
 <a href="https://github.com/rpgp/rpgp/pulls?q=is%3Apr&#43;author%3Aasciimoth">rpgp/rpgp</a> <br>
-
 <a href="https://github.com/PurpleI2P/i2pd/pulls?q=is%3Apr&#43;author%3Aasciimoth">PurpleI2P/i2pd</a> <br>
-
 <a href="https://github.com/cyanomiko/dcnnt-py/pulls?q=is%3Apr&#43;author%3Aasciimoth">cyanomiko/dcnnt-py</a> <br>
-
 <a href="https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr&#43;author%3Aasciimoth">NixOS/nixpkgs</a> <br>
-
 <a href="https://github.com/nix-community/stylix/pulls?q=is%3Apr&#43;author%3Aasciimoth">nix-community/stylix</a> <br>
-
-	
 <!--END_SECTION:prlist-->
+
   </span>
 </div>
