@@ -12,4 +12,9 @@
 </div>
 
 <!--START_SECTION:prlist-->
+- [rpgp/rpgp](https://github.com/rpgp/rpgp/pulls?q=is%3Apr+author%3Aasciimoth)
+- [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd/pulls?q=is%3Apr+author%3Aasciimoth)
+- [cyanomiko/dcnnt-py](https://github.com/cyanomiko/dcnnt-py/pulls?q=is%3Apr+author%3Aasciimoth)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3Aasciimoth)
+- [nix-community/stylix](https://github.com/nix-community/stylix/pulls?q=is%3Apr+author%3Aasciimoth)
 <!--END_SECTION:prlist-->
