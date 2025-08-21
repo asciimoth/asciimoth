@@ -1,0 +1,19 @@
+name: Update list of my PRs
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # every day at 00:00 UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  prlist:
+    runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+    steps:
+      - name: Update PRs list in README
+        uses: asciimoth/prlist@1f045ef3465599dcbcca49b83af993dc730e0458
+        with:
+          ignore: "QORP-community/*:*/Kotline_Tut:ToastedAndBored/web-forth"
