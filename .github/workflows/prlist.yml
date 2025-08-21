@@ -14,6 +14,7 @@ jobs:
       contents: write
     steps:
       - name: Update PRs list in README
-        uses: asciimoth/prlist@0597c49e96964de6941ba5493acee05bb6dbba13
+        uses: asciimoth/prlist@f9ccc0747d7d1a9d4a20dae3944bad15d695adbd
         with:
           ignore: "QORP-community/*:*/Kotline_Tut:ToastedAndBored/web-forth"
+          format: "html"
