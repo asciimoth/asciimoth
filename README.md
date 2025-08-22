@@ -20,5 +20,6 @@
 <a href="https://github.com/nix-community/stylix/pulls?q=is%3Apr&#43;author%3Aasciimoth">nix-community/stylix</a> <br>
 <!--END_SECTION:prlist-->
 
+
   </span>
 </div>
