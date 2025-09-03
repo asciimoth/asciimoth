@@ -11,7 +11,6 @@
   </span>
   <br>
   <span>
-	  Some projects I've contributed to: <br>
 <!--START_SECTION:prlist-->
 <!--END_SECTION:prlist-->
 
