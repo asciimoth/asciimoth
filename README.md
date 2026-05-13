@@ -28,6 +28,7 @@ Major
 - [socksgo](https://github.com/asciimoth/socksgo) – the most complete, compatible, feature-rich, and extensible SOCKS library for Go
 
 Minor
+- [pasta](https://github.com/asciimoth/pasta) - Headless Go framework for node-based graph editors and runtimes
 - [mnlib](https://github.com/asciimoth/mnlib) - mesh-oriented DNS names lib
 - [gonnect](https://github.com/asciimoth/gonnect) - my collection of network helper functions and common types that I use across my go projects
 - [gonnect-netstack](https://github.com/asciimoth/gonnect-netstack) - gVisor's userspace TCP/IP stack integration for the gonnect-based projects
@@ -43,3 +44,4 @@ Minor
 - [inplace](https://github.com/asciimoth/inplace) - go library for non-destructive document's content modification
 - [colorit](https://github.com/asciimoth/colorit) - a minimal go library for syntax highliting
 - [wasm-examples](https://github.com/asciimoth/wasm-examples) - examples of written by hand wasm programs
+- [configer](https://github.com/asciimoth/configer) - Config formats abstraction lib for go
