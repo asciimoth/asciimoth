@@ -28,6 +28,7 @@ Major
 - [socksgo](https://github.com/asciimoth/socksgo) – the most complete, compatible, feature-rich, and extensible SOCKS library for Go
 
 Minor
+- [pmark](https://github.com/asciimoth/p-mark) - Go lib and tool for tagging processes for split routing and other purposes
 - [pasta](https://github.com/asciimoth/pasta) - Headless Go framework for node-based graph editors and runtimes
 - [mnlib](https://github.com/asciimoth/mnlib) - mesh-oriented DNS names lib
 - [gonnect](https://github.com/asciimoth/gonnect) - my collection of network helper functions and common types that I use across my go projects
