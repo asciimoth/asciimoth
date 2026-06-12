@@ -28,6 +28,7 @@ Major
 - [socksgo](https://github.com/asciimoth/socksgo) – the most complete, compatible, feature-rich, and extensible SOCKS library for Go
 
 Minor
+- [killswitch](https://github.com/asciimoth/killswitch) - Linux eBPF network kill switch for vpn apps an beyond 
 - [pmark](https://github.com/asciimoth/p-mark) - Go lib and tool for tagging processes for split routing and other purposes
 - [pasta](https://github.com/asciimoth/pasta) - Headless Go framework for node-based graph editors and runtimes
 - [mnlib](https://github.com/asciimoth/mnlib) - mesh-oriented DNS names lib
