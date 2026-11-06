@@ -54,6 +54,7 @@
 - [ygg](https://github.com/asciimoth/ygg) - alternative Yggdrasil mesh network implementation
 - [tuntap](https://github.com/asciimoth/tuntap) - cross-platform TUN device library
 - [batchudp](https://github.com/asciimoth/batchudp) - batched UDP transport package
+- [goeris](https://github.com/asciimoth/goeris) - [ERIS](https://eris.codeberg.page) go library
 - [pasta](https://github.com/asciimoth/pasta) - framework for node graph editors and runtimes
 - [formular](https://github.com/asciimoth/formular) - message format for dynamic menus and forms
 - [pineentry](https://github.com/asciimoth/pineentry) - GPG pinentry caching proxy
