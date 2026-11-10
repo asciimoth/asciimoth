@@ -23,6 +23,16 @@
 
   <img src="https://asciimoth.github.io/almagest/images/graph.png" alt="Almagest node graph preview" width="600" />
 
+- [zpg](https://github.com/asciimoth/zpg) - Standalone cli supervisor for [zig progress protocol](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
+  - Client libs: [zppy](https://github.com/asciimoth/zppy) [zpgo](https://github.com/asciimoth/zpgo) [zprs](https://github.com/asciimoth/zprs) [zpjs](https://github.com/asciimoth/zpjs)
+
+  <img src="https://raw.githubusercontent.com/asciimoth/zpg/master/demo.gif" alt="zpg displaying a task tree" width="600" />
+
+- [ghrepo](https://github.com/asciimoth/ghrepo) - host DEB and RPM repositories on GitHub Pages
+    - [repo](https://repo.moth.contact/) - personal DEB and RPM package repository
+
+  <img src="./media/repo.png" alt="My deb/rpm repo preview" width="600" />
+
 - [openascii](https://github.com/asciimoth/openascii) - open source ASCII art archive
   - [3a](https://github.com/asciimoth/3a) - animated ASCII art file format
   - [aaa](https://github.com/asciimoth/aaa) - command-line tools for creating and viewing 3a art
@@ -30,11 +40,6 @@
   - [convert3a](https://github.com/asciimoth/convert3a) and [rsw3a](https://github.com/asciimoth/rsw3a) - 3a conversion tools
 
   <img src="./media/openascii.png" alt="Openascii art preview" width="600" />
-
-- [ghrepo](https://github.com/asciimoth/ghrepo) - host DEB and RPM repositories on GitHub Pages
-    - [repo](https://repo.moth.contact/) - personal DEB and RPM package repository
-
-  <img src="./media/repo.png" alt="My deb/rpm repo preview" width="600" />
 
 #### Minor
 
