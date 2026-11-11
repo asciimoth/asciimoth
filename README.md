@@ -19,10 +19,10 @@
 ### Some of my projects
 #### Major
 
-- [almagest](https://github.com/asciimoth/almagest) - visual network toolkit built around a node graph
-
-  <img src="https://asciimoth.github.io/almagest/images/graph.png" alt="Almagest node graph preview" width="600" />
-
+<!-- - [almagest](https://github.com/asciimoth/almagest) - visual network toolkit built around a node graph -->
+<!---->
+<!--   <img src="https://asciimoth.github.io/almagest/images/graph.png" alt="Almagest node graph preview" width="600" /> -->
+<!---->
 - [zpg](https://github.com/asciimoth/zpg) - Standalone cli supervisor for [zig progress protocol](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
   - Client libs: [zppy](https://github.com/asciimoth/zppy) [zpgo](https://github.com/asciimoth/zpgo) [zprs](https://github.com/asciimoth/zprs) [zpjs](https://github.com/asciimoth/zpjs)
 
