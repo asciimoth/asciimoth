@@ -26,7 +26,7 @@
 - [zpg](https://github.com/asciimoth/zpg) - Standalone cli supervisor for [zig progress protocol](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
   - Client libs: [zppy](https://github.com/asciimoth/zppy) [zpgo](https://github.com/asciimoth/zpgo) [zprs](https://github.com/asciimoth/zprs) [zpjs](https://github.com/asciimoth/zpjs)
 
-  <img src="https://raw.githubusercontent.com/asciimoth/zpg/master/demo.gif" alt="zpg displaying a task tree" width="600" />
+  <img src="https://vhs.charm.sh/vhs-5OKsqixxKTapPmjdIv2Qhf.gif" alt="zpg displaying a task tree" width="600" />
 
 - [ghrepo](https://github.com/asciimoth/ghrepo) - host DEB and RPM repositories on GitHub Pages
     - [repo](https://repo.moth.contact/) - personal DEB and RPM package repository
